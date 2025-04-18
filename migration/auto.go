@@ -1,7 +1,7 @@
 package main
 
 import (
-	"demo/api/internal/auth/link"
+	"demo/api/internal/link"
 	"os"
 
 	"github.com/joho/godotenv"
